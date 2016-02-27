@@ -1,0 +1,80 @@
+_repo: The-Imitation-of-Christ_1653
+alternative_title: Imitatio Christi. English
+contributor:
+  translator:
+    agent_name: Benham, William
+    alias: Benham, W. (William)
+    birthdate: 1831
+    deathdate: 1910
+    gutenberg_agent_id: '5970'
+    url: http://www.gutenberg.org/2009/agents/5970
+creator:
+  author:
+    agent_name: Thomas, à Kempis
+    aliases:
+    - Kempis, Thomas à
+    - Kempis, Thomas a
+    birthdate: 1380
+    deathdate: 1471
+    gutenberg_agent_id: '682'
+    url: http://www.gutenberg.org/2009/agents/682
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_à_Kempis
+description: "The Imitation of Christ (Latin: De Imitatione Christi) by Thomas à Kempis\
+  \ is a Christian devotional book. It was first composed in Latin ca.1418-1427. It\
+  \ is a handbook for spiritual life arising from the Devotio Moderna movement, of\
+  \ which Kempis was a member.\nThe Imitation is perhaps the most widely read devotional\
+  \ work next to the Bible, and is regarded as a devotional and religious classic.\
+  \ Its popularity was immediate, and it was printed 745 times before 1650. Apart\
+  \ from the Bible, no book has been translated into more languages than the Imitation\
+  \ of Christ.\nThe text is divided into four books, which provide detailed spiritual\
+  \ instructions: \"Helpful Counsels of the Spiritual Life\", \"Directives for the\
+  \ Interior Life\", \"On Interior Consolation\" and \"On the Blessed Sacrament\"\
+  .\nThe approach taken in the Imitation is characterized by its emphasis on the interior\
+  \ life and withdrawal from the world, as opposed to an active imitation of Christ\
+  \ by other friars. The book places a high level of emphasis on the devotion to the\
+  \ Eucharist as key element of spiritual life.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Harvard Classics
+- Christianity
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1653'
+  wikidata: Q670350
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meditations'
+- !lcc 'BV'
+title: The Imitation of Christ
+url: http://www.gutenberg.org/ebooks/1653
+wikipedia:
+- https://fi.wikipedia.org/wiki/Kristuksen_seuraamisesta
+- https://fr.wikisource.org/wiki/Imitation_de_J%C3%A9sus-Christ
+- https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E3%81%AB%E5%80%A3%E3%81%84%E3%81%A6
+- https://pt.wikipedia.org/wiki/A_Imita%C3%A7%C3%A3o_de_Cristo
+- https://ml.wikipedia.org/wiki/%E0%B4%87%E0%B4%AE%E0%B4%BF%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%87%E0%B4%B7%E0%B5%BB_%E0%B4%93%E0%B4%AB%E0%B5%8D_%E0%B4%95%E0%B5%8D%E0%B4%B0%E0%B5%88%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%8D
+- https://es.wikipedia.org/wiki/Imitaci%C3%B3n_de_Cristo
+- https://en.wikipedia.org/wiki/The_Imitation_of_Christ
+- https://ru.wikipedia.org/wiki/%D0%9E_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B6%D0%B0%D0%BD%D0%B8%D0%B8_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D1%83
+- https://ro.wikipedia.org/wiki/Imita%C8%9Biunea_lui_Cristos
+- https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A6%AC%EC%8A%A4%EB%8F%84%EB%A5%BC_%EB%B3%B8%EB%B0%9B%EC%95%84
+- https://fr.wikipedia.org/wiki/L%27Imitation_de_J%C3%A9sus-Christ
+- https://zh.wikipedia.org/wiki/%E5%B8%88%E4%B8%BB%E7%AF%87
+- https://pl.wikipedia.org/wiki/O_na%C5%9Bladowaniu_Chrystusa
+- https://hu.wikipedia.org/wiki/De_imitatione_Christi
+- https://fy.wikipedia.org/wiki/It_Neifolgjen_fan_Kristus
+- https://sv.wikipedia.org/wiki/Om_Kristi_efterf%C3%B6ljelse
+- https://sl.wikisource.org/wiki/Hoja_za_Kristusom
+- https://nl.wikipedia.org/wiki/De_imitatione_Christi
+- https://ia.wikipedia.org/wiki/Imitation_de_Christo
+- https://it.wikiquote.org/wiki/Imitazione_di_Cristo
+- https://de.wikipedia.org/wiki/Nachfolge_Christi
+- https://eu.wikipedia.org/wiki/Jesukristoren_Imitazioa
+- https://cs.wikipedia.org/wiki/N%C3%A1sledov%C3%A1n%C3%AD_Krista
+- https://it.wikipedia.org/wiki/Imitazione_di_Cristo
+- https://la.wikipedia.org/wiki/De_Imitatione_Christi
+- https://hr.wikipedia.org/wiki/Nasljeduj_Krista
+- https://ca.wikipedia.org/wiki/Imitaci%C3%B3_de_Crist
