@@ -1,5 +1,5 @@
 _repo: The-Imitation-of-Christ_1653
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Imitatio Christi. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1910
     gutenberg_agent_id: '5970'
     url: http://www.gutenberg.org/2009/agents/5970
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thomas, Ã  Kempis
@@ -34,6 +37,8 @@ description: "The Imitation of Christ (Latin: De Imitatione Christi) by Thomas Ã
   \ life and withdrawal from the world, as opposed to an active imitation of Christ\
   \ by other friars. The book places a high level of emphasis on the devotion to the\
   \ Eucharist as key element of spiritual life.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1653#The-Imitation-of-Christ
 gutenberg_bookshelf:
 - Harvard Classics
 - Christianity
